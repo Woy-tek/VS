@@ -1,0 +1,9 @@
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\lab5\Lib\AuthorLib\bin\Debug\AuthorLib.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\lab5\Lib\AuthorLib\bin\Debug\AuthorLib.pdb
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\lab5\Lib\AuthorLib\bin\Debug\Lib.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\lab5\Lib\AuthorLib\bin\Debug\LiteDB.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\lab5\Lib\AuthorLib\bin\Debug\Lib.pdb
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\lab5\Lib\AuthorLib\bin\Debug\LiteDB.xml
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\lab5\Lib\AuthorLib\obj\Debug\AuthorLib.csprojResolveAssemblyReference.cache
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\lab5\Lib\AuthorLib\obj\Debug\AuthorLib.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\lab5\Lib\AuthorLib\obj\Debug\AuthorLib.pdb

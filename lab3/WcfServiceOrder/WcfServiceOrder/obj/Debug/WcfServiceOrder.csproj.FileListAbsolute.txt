@@ -1,0 +1,6 @@
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\WcfServiceOrder\WcfServiceOrder\bin\Debug\WcfServiceOrder.dll.config
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\WcfServiceOrder\WcfServiceOrder\bin\Debug\WcfServiceOrder.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\WcfServiceOrder\WcfServiceOrder\bin\Debug\WcfServiceOrder.pdb
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\WcfServiceOrder\WcfServiceOrder\obj\Debug\WcfServiceOrder.csprojResolveAssemblyReference.cache
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\WcfServiceOrder\WcfServiceOrder\obj\Debug\WcfServiceOrder.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\WcfServiceOrder\WcfServiceOrder\obj\Debug\WcfServiceOrder.pdb

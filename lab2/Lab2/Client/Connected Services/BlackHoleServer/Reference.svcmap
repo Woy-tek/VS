@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="68deed30-ea22-4dac-8bed-dd430f18d2f8" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:80/Temporary_Listen_Addresses/WCFTest" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WCFTest.disco" MetadataType="Disco" ID="c3791c92-517c-4262-a32c-b0eae79380f2" SourceId="1" SourceUrl="http://localhost/Temporary_Listen_Addresses/WCFTest?disco" />
+    <MetadataFile FileName="BlackHole.wsdl" MetadataType="Wsdl" ID="3c911f61-9316-4287-be92-89bb2d3d72a7" SourceId="1" SourceUrl="http://localhost/Temporary_Listen_Addresses/WCFTest?wsdl" />
+    <MetadataFile FileName="WCFTest.xsd" MetadataType="Schema" ID="a14c7009-2be2-4a54-bfc1-faf46b11c385" SourceId="1" SourceUrl="http://localhost/Temporary_Listen_Addresses/WCFTest?xsd=xsd2" />
+    <MetadataFile FileName="WCFTest1.xsd" MetadataType="Schema" ID="58fbf616-c331-4ee0-95b8-85d87c6b619b" SourceId="1" SourceUrl="http://localhost/Temporary_Listen_Addresses/WCFTest?xsd=xsd1" />
+    <MetadataFile FileName="WCFTest2.xsd" MetadataType="Schema" ID="0539668f-2472-4528-a782-d43039298f21" SourceId="1" SourceUrl="http://localhost/Temporary_Listen_Addresses/WCFTest?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

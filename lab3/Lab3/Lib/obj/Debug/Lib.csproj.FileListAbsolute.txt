@@ -1,0 +1,5 @@
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\Lab3\Lib\bin\Debug\Lib.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\Lab3\Lib\bin\Debug\Lib.pdb
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\Lab3\Lib\obj\Debug\Lib.csprojResolveAssemblyReference.cache
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\Lab3\Lib\obj\Debug\Lib.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\Lab3\Lib\obj\Debug\Lib.pdb

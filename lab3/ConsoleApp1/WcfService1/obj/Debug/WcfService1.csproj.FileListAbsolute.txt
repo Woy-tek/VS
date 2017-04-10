@@ -1,0 +1,6 @@
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\ConsoleApp1\WcfService1\bin\WcfService1.dll.config
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\ConsoleApp1\WcfService1\bin\WcfService1.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\ConsoleApp1\WcfService1\bin\WcfService1.pdb
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\ConsoleApp1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\ConsoleApp1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\ConsoleApp1\WcfService1\obj\Debug\WcfService1.pdb

@@ -1,0 +1,8 @@
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab2\Lab2\Server\bin\Debug\Server.exe.config
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab2\Lab2\Server\bin\Debug\Server.exe
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab2\Lab2\Server\bin\Debug\Server.pdb
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab2\Lab2\Server\bin\Debug\Lib.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab2\Lab2\Server\bin\Debug\Lib.pdb
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab2\Lab2\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab2\Lab2\Server\obj\Debug\Server.exe
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab2\Lab2\Server\obj\Debug\Server.pdb

@@ -1,0 +1,8 @@
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\Lab3\WcfServiceCosmos\bin\Debug\WcfServiceCosmos.dll.config
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\Lab3\WcfServiceCosmos\bin\Debug\WcfServiceCosmos.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\Lab3\WcfServiceCosmos\bin\Debug\WcfServiceCosmos.pdb
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\Lab3\WcfServiceCosmos\bin\Debug\Lib.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\Lab3\WcfServiceCosmos\bin\Debug\Lib.pdb
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\Lab3\WcfServiceCosmos\obj\Debug\WcfServiceCosmos.csprojResolveAssemblyReference.cache
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\Lab3\WcfServiceCosmos\obj\Debug\WcfServiceCosmos.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab3\Lab3\WcfServiceCosmos\obj\Debug\WcfServiceCosmos.pdb

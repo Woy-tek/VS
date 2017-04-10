@@ -1,0 +1,12 @@
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab4\Lab4\MoviesServer\bin\Debug\MoviesServer.dll.config
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab4\Lab4\MoviesServer\bin\Debug\MoviesServer.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab4\Lab4\MoviesServer\bin\Debug\MoviesServer.pdb
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab4\Lab4\MoviesServer\bin\Debug\Lib.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab4\Lab4\MoviesServer\bin\Debug\MovieRepository.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab4\Lab4\MoviesServer\bin\Debug\LiteDB.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab4\Lab4\MoviesServer\bin\Debug\Lib.pdb
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab4\Lab4\MoviesServer\bin\Debug\MovieRepository.pdb
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab4\Lab4\MoviesServer\bin\Debug\LiteDB.xml
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab4\Lab4\MoviesServer\obj\Debug\MoviesServer.csprojResolveAssemblyReference.cache
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab4\Lab4\MoviesServer\obj\Debug\MoviesServer.dll
+C:\Users\Woy-tek\Documents\Visual Studio 2017\Projects\Kolos\lab4\Lab4\MoviesServer\obj\Debug\MoviesServer.pdb
